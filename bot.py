@@ -4,33 +4,33 @@ from datetime import datetime
 import os
 
 def get_news():
-    # Haber kaynakları ve konular (Siber Güvenlik, Yapay Zeka, Yazılım)
-    url = "https://news.ycombinator.com/" # Hacker News örneği
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
+    news_list = []
     
-    # Haberleri çek
-    articles = soup.find_all('span', class_='titleline', limit=15)
-    
-    # İlgilendiğin anahtar kelimeler
-    keywords = ['AI', 'Cyber', 'Security', 'Software', 'Python', 'C#', 'Hack']
-    found_news = []
-    
-    for article in articles:
-        text = article.text
-        if any(key.lower() in text.lower() for key in keywords):
-            found_news.append(text)
-            if len(found_news) == 3: break # En fazla 3 haber al
+    # 1. Kaynak: BleepingComputer (Siber Güvenlik)
+    try:
+        r = requests.get("https://www.bleepingcomputer.com/", timeout=10)
+        soup = BeautifulSoup(r.text, 'html.parser')
+        # Ana sayfadaki ilk 2 siber güvenlik haberini al
+        cyber_news = soup.find_all('h4', limit=2)
+        for n in cyber_news:
+            news_list.append(f"🛡️ [Cyber]: {n.text.strip()}")
+    except: pass
 
-    # Dosyaya kaydet
+    # 2. Kaynak: HackerNoon (AI ve Yazılım)
+    try:
+        r = requests.get("https://hackernoon.com/tagged/ai", timeout=10)
+        soup = BeautifulSoup(r.text, 'html.parser')
+        ai_news = soup.find_all('h2', limit=2)
+        for n in ai_news:
+            news_list.append(f"🤖 [AI/Dev]: {n.text.strip()}")
+    except: pass
+
+    # Sonuçları Kaydet
     date_str = datetime.now().strftime('%Y-%m-%d')
-    content = f"--- {date_str} Teknoloji Haberleri ---\n"
-    content += "\n".join(found_news) if found_news else "Bugün özel bir haber bulunamadı."
+    content = f"--- {date_str} Teknoloji Gündemi ---\n\n"
+    content += "\n".join(news_list) if news_list else "Haber bulunamadı, bağlantı kontrol edilmeli."
     
-    # Logs klasörü yoksa oluştur
-    if not os.path.exists('logs'):
-        os.makedirs('logs')
-        
+    if not os.path.exists('logs'): os.makedirs('logs')
     with open(f"logs/news_{date_str}.txt", "w", encoding="utf-8") as f:
         f.write(content)
 
