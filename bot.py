@@ -4,42 +4,36 @@ from datetime import datetime
 import os
 
 def get_news():
+    # RSS beslemeleri saf veridir, tasarım değişiminden etkilenmez.
+    # Yapay Zeka, Siber Güvenlik ve Yazılım konuları filtrelenmiştir.
+    sources = [
+        "https://hnrss.org/newest?q=AI",
+        "https://hnrss.org/newest?q=Cybersecurity",
+        "https://hnrss.org/newest?q=Software+Development"
+    ]
+    
     news_list = []
-    headers = {'User-Agent': 'Mozilla/5.0'} # Siteye "ben bir tarayıcıyım" diyoruz
+    headers = {'User-Agent': 'Mozilla/5.0'}
 
-    # 1. Kaynak: BleepingComputer (Siber Güvenlik)
-    try:
-        r = requests.get("https://www.bleepingcomputer.com/", headers=headers, timeout=10)
-        soup = BeautifulSoup(r.text, 'html.parser')
-        # Sadece ana haber listesindeki h2 başlıklarını alıyoruz
-        cyber_items = soup.find_all('h2', limit=5) 
-        for n in cyber_items:
-            title = n.text.strip()
-            if len(title) > 20: # Kısa buton isimlerini (Giriş, Kayıt vb.) elemek için
-                news_list.append(f"🛡️ [Siber Güvenlik]: {title}")
-                if len([x for x in news_list if "🛡️" in x]) >= 2: break
-    except: pass
+    for url in sources:
+        try:
+            response = requests.get(url, headers=headers, timeout=15)
+            # RSS bir XML yapısıdır, bu yüzden 'xml' parser kullanıyoruz
+            soup = BeautifulSoup(response.content, features="xml")
+            items = soup.find_all('item', limit=2) # Her konudan en yeni 2 haberi al
+            
+            for item in items:
+                title = item.title.text.strip()
+                # Kategori belirleme
+                category = "🤖 AI" if "AI" in url else "🛡️ Cyber" if "Cyber" in url else "💻 Dev"
+                news_list.append(f"{category}: {title}")
+        except Exception as e:
+            print(f"Hata oluştu: {e}")
 
-    # 2. Kaynak: HackerNoon (Yapay Zeka)
-    try:
-        r = requests.get("https://hackernoon.com/tagged/ai", headers=headers, timeout=10)
-        soup = BeautifulSoup(r.text, 'html.parser')
-        # HackerNoon'da haber başlıkları genellikle h2 içindeki linklerdedir
-        ai_items = soup.find_all('h2', limit=10)
-        count = 0
-        for n in ai_items:
-            title = n.text.strip()
-            # "Açık Mod", "Karanlık Mod" gibi kelimeleri engelliyoruz
-            if len(title) > 25 and "Mod" not in title:
-                news_list.append(f"🤖 [Yapay Zeka]: {title}")
-                count += 1
-                if count >= 2: break
-    except: pass
-
-    # Sonuçları Kaydet
+    # Dosyaya kaydetme işlemi
     date_str = datetime.now().strftime('%Y-%m-%d')
     content = f"--- {date_str} Teknoloji Gündemi ---\n\n"
-    content += "\n".join(news_list) if news_list else "⚠️ Haberler çekilemedi, seçiciler güncellenmeli."
+    content += "\n".join(news_list) if news_list else "⚠️ Kaynaklara ulaşılamadı."
     
     if not os.path.exists('logs'): os.makedirs('logs')
     with open(f"logs/news_{date_str}.txt", "w", encoding="utf-8") as f:
