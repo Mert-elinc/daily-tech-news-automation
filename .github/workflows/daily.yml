@@ -1,0 +1,34 @@
+name: Daily Tech News Bot
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Her gece 00:00'da çalışır
+  workflow_dispatch: # İstediğinde elle çalıştırmak için
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dosya eklemek için izin
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v3
+
+      - name: Python'u Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Kütüphaneleri Yükle
+        run: pip install requests beautifulsoup4
+
+      - name: Botu Çalıştır
+        run: python bot.py
+
+      - name: Sonuçları Kaydet ve Yükle
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add logs/
+          git commit -m "Günlük haberler eklendi: $(date)" || echo "Değişiklik yok"
+          git push
