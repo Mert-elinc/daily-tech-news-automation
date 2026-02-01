@@ -1,4 +1,3 @@
 --- 2026-02-01 Teknoloji Gündemi ---
 
-🤖 [AI/Dev]: Light-Mode
-🤖 [AI/Dev]: Dark-Mode
+⚠️ Haberler çekilemedi, seçiciler güncellenmeli.
