@@ -1,0 +1,4 @@
+--- 2026-02-02 Teknoloji Haberleri ---
+Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation (github.com/gavrielc)
+Adventure Game Studio: OSS software for creating adventure games (adventuregamestudio.co.uk)
+MicroPythonOS graphical operating system delivers Android-like user experience (cnx-software.com)
