@@ -1,0 +1,4 @@
+--- 2026-02-07 Teknoloji Haberleri ---
+Monty: A minimal, secure Python interpreter written in Rust for use by AI (github.com/pydantic)
+A century of hair samples proves leaded gas ban worked (arstechnica.com)
+Microsoft open-sources LiteBox, a security-focused library OS (github.com/microsoft)
