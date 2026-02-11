@@ -1,0 +1,4 @@
+--- 2026-02-11 Teknoloji Haberleri ---
+Ex-GitHub CEO launches a new developer platform for AI agents (entire.io)
+The Little Learner: A Straight Line to Deep Learning (mitpress.mit.edu)
+Tambo 1.0: Open-source toolkit for agents that render React components (github.com/tambo-ai)
