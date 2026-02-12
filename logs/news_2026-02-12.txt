@@ -1,0 +1,4 @@
+--- 2026-02-12 Teknoloji Haberleri ---
+Text classification with Python 3.14's ZSTD module (maxhalford.github.io)
+GLM-5: Targeting complex systems engineering and long-horizon agentic tasks (z.ai)
+Microwave Oven Failure: Spontaneously turned on by its LED display (2024) (stuffedcow.net)
