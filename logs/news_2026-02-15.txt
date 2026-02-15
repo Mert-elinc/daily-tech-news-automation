@@ -1,0 +1,4 @@
+--- 2026-02-15 Teknoloji Haberleri ---
+News publishers limit Internet Archive access due to AI scraping concerns (niemanlab.org)
+My smart sleep mask broadcasts users' brainwaves to an open MQTT broker (aimilios.bearblog.dev)
+IBM tripling entry-level jobs after finding the limits of AI adoption (fortune.com)
