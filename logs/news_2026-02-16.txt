@@ -1,0 +1,4 @@
+--- 2026-02-16 Teknoloji Haberleri ---
+I’m joining OpenAI (steipete.me)
+Show HN: Klaw.sh – Kubernetes for AI agents (github.com/klawsh)
+Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter GUI (github.com/gpasquero)
