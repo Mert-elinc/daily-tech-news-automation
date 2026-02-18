@@ -1,0 +1,3 @@
+--- 2026-02-18 Teknoloji Haberleri ---
+Async/Await on the GPU (vectorware.com)
+Structured AI (YC F25) Is Hiring (ycombinator.com)
