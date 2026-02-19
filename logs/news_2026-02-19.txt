@@ -1,0 +1,4 @@
+--- 2026-02-19 Teknoloji Haberleri ---
+Tailscale Peer Relays is now generally available (tailscale.com)
+Show HN: Rebrain.gg – Doom learn, don't doom scroll
+Metriport (YC S22) is hiring a security engineer to harden healthcare infra (ycombinator.com)
