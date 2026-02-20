@@ -1,0 +1,4 @@
+--- 2026-02-20 Teknoloji Haberleri ---
+Show HN: Ghostty-based terminal with vertical tabs and notifications (github.com/manaflow-ai)
+AI is not a coworker, it's an exoskeleton (kasava.dev)
+Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails (royapakzad.substack.com)
