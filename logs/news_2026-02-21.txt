@@ -1,0 +1,4 @@
+--- 2026-02-21 Teknoloji Haberleri ---
+Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI (github.com/ggml-org)
+Every company building your AI assistant is now an ad company (juno-labs.com)
+Uncovering insiders and alpha on Polymarket with AI (twitter.com/peterjliu)
