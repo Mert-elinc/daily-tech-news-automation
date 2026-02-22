@@ -1,0 +1,4 @@
+--- 2026-02-22 Teknoloji Haberleri ---
+zclaw: personal AI assistant in under 888 KB, running on an ESP32 (github.com/tnm)
+CXMT has been offering DDR4 chips at about half the prevailing market rate (koreaherald.com)
+Toyota Mirai hydrogen car depreciation: 65% value loss in a year (carbuzz.com)
