@@ -1,0 +1,4 @@
+--- 2026-02-24 Teknoloji Haberleri ---
+FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me (vladimir.varank.in)
+AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says (gizmodo.com)
+Making Wolfram Tech Available as a Foundation Tool for LLM Systems (stephenwolfram.com)
