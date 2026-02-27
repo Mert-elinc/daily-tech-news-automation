@@ -1,0 +1,3 @@
+--- 2026-02-27 Teknoloji Haberleri ---
+AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf] (ndss-symposium.org)
+What Claude Code Chooses (amplifying.ai)
