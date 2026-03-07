@@ -1,0 +1,3 @@
+--- 2026-03-07 Teknoloji Haberleri ---
+C# strings silently kill your SQL Server indexes in Dapper (consultwithgriff.com)
+The worst acquisition in history, again (profgmedia.com)
