@@ -1,0 +1,4 @@
+--- 2026-03-11 Teknoloji Haberleri ---
+Yann LeCun raises $1B to build AI that understands the physical world (wired.com)
+Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon (github.com/runanywhereai)
+Universal vaccine against respiratory infections and allergens (stanford.edu)
