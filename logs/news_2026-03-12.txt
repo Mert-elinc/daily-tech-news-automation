@@ -1,0 +1,4 @@
+--- 2026-03-12 Teknoloji Haberleri ---
+Don't post generated/AI-edited comments. HN is for conversation between humans. (news.ycombinator.com)
+Making WebAssembly a first-class language on the Web (hacks.mozilla.org)
+I was interviewed by an AI bot for a job (theverge.com)
