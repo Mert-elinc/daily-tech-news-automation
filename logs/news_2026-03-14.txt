@@ -1,0 +1,4 @@
+--- 2026-03-14 Teknoloji Haberleri ---
+1M context is now generally available for Opus 4.6 and Sonnet 4.6 (claude.com)
+Can I run AI locally? (canirun.ai)
+Mouser: An open source alternative to Logi-Plus mouse software (github.com/tombadash)
