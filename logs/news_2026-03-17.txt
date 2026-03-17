@@ -1,0 +1,4 @@
+--- 2026-03-17 Teknoloji Haberleri ---
+Leanstral: Open-source agent for trustworthy coding and formal proof engineering (mistral.ai)
+Starlink Mini as a failover (jackpearce.co.uk)
+Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps
