@@ -1,0 +1,4 @@
+--- 2026-03-19 Teknoloji Haberleri ---
+Warranty Void If Regenerated (nearzero.software)
+Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training (github.com/alainnothere)
+The math that explains why bell curves are everywhere (quantamagazine.org)
