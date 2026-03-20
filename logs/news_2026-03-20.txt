@@ -1,0 +1,4 @@
+--- 2026-03-20 Teknoloji Haberleri ---
+Astral to Join OpenAI (astral.sh)
+Google details new 24-hour process to sideload unverified Android apps (arstechnica.com)
+Be intentional about how AI changes your codebase (swerdlow.dev)
