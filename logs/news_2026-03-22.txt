@@ -1,0 +1,4 @@
+--- 2026-03-22 Teknoloji Haberleri ---
+Tinybox – Offline AI device 120B parameters (tinygrad.org)
+Profiling Hacker News users based on their comments (simonwillison.net)
+The Impact of AI on Game Dev Jobs. Open to Work Crisis (darkounity.com)
