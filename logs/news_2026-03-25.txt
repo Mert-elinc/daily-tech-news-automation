@@ -1,0 +1,4 @@
+--- 2026-03-25 Teknoloji Haberleri ---
+Flighty Airports (flighty.com)
+Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised (github.com/berriai)
+Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains (xda-developers.com)
