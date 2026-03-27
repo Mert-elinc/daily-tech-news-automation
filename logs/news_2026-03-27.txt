@@ -1,0 +1,4 @@
+--- 2026-03-27 Teknoloji Haberleri ---
+Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer (georgelarson.me)
+Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label (cnn.com)
+My minute-by-minute response to the LiteLLM malware attack (futuresearch.ai)
