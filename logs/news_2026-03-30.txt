@@ -1,0 +1,4 @@
+--- 2026-03-30 Teknoloji Haberleri ---
+Claude Code runs Git reset –hard origin/main against project repo every 10 mins (github.com/anthropics)
+There is No Spoon. A software engineers primer for demystified ML (github.com/dreddnafious)
+Coding Agents Could Make Free Software Matter Again (gjlondon.com)
