@@ -1,0 +1,4 @@
+--- 2026-04-01 Teknoloji Haberleri ---
+OpenAI closes funding round at an $852B valuation (cnbc.com)
+Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs (prismml.com)
+Back to FreeBSD – Part 2 – Jails (hypha.pub)
