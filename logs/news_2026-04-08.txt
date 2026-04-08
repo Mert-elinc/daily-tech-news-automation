@@ -1,0 +1,4 @@
+--- 2026-04-08 Teknoloji Haberleri ---
+Project Glasswing: Securing critical software for the AI era (anthropic.com)
+GLM-5.1: Towards Long-Horizon Tasks (z.ai)
+Cloudflare targets 2029 for full post-quantum security (cloudflare.com)
