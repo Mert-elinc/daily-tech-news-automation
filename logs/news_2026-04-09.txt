@@ -1,0 +1,4 @@
+--- 2026-04-09 Teknoloji Haberleri ---
+USB for Software Developers: An introduction to writing userspace USB drivers (werwolv.net)
+John Deere to pay $99M in right-to-repair settlement (thedrive.com)
+MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU (arxiv.org)
