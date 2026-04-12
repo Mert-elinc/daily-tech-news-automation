@@ -1,0 +1,4 @@
+--- 2026-04-12 Teknoloji Haberleri ---
+Small models also found the vulnerabilities that Mythos found (aisle.com)
+How We Broke Top AI Agent Benchmarks: And What Comes Next (rdi.berkeley.edu)
+Cirrus Labs to join OpenAI (cirruslabs.org)
