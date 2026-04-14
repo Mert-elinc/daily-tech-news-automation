@@ -1,0 +1,3 @@
+--- 2026-04-14 Teknoloji Haberleri ---
+(AMD) Build AI Agents That Run Locally (amd-gaia.ai)
+Servo is now available on crates.io (servo.org)
