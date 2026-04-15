@@ -1,0 +1,3 @@
+--- 2026-04-15 Teknoloji Haberleri ---
+Turn your best AI prompts into one-click tools in Chrome (blog.google)
+Show HN: Plain – The full-stack Python framework designed for humans and agents (github.com/dropseed)
