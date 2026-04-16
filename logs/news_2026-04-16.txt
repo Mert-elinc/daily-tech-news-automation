@@ -1,0 +1,3 @@
+--- 2026-04-16 Teknoloji Haberleri ---
+Cybersecurity looks like proof of work now (dbreunig.com)
+Hacker News CLI (pythonhosted.org)
