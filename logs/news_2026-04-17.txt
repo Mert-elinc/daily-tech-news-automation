@@ -1,0 +1,4 @@
+--- 2026-04-17 Teknoloji Haberleri ---
+Codex for almost everything (openai.com)
+Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine (github.com/gainsec)
+CadQuery is an open-source Python library for building 3D CAD models (cadquery.github.io)
