@@ -1,0 +1,4 @@
+--- 2026-04-24 Teknoloji Haberleri ---
+GPT-5.5 (openai.com)
+Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign (socket.dev)
+MeshCore development team splits over trademark dispute and AI-generated code (meshcore.io)
