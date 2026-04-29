@@ -1,0 +1,3 @@
+--- 2026-04-29 Teknoloji Haberleri ---
+OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs (stratechery.com)
+Behavioral timescale synaptic plasticity rewires the brain after an experience (quantamagazine.org)
