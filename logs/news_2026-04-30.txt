@@ -1,0 +1,4 @@
+--- 2026-04-30 Teknoloji Haberleri ---
+Copy Fail – CVE-2026-31431 (copy.fail)
+I benchmarked Claude Code's caveman plugin against "be brief." (maxtaylor.me)
+Claude.ai and API Unavailable (claude.com)
