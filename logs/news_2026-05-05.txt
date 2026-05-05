@@ -1,0 +1,3 @@
+--- 2026-05-05 Teknoloji Haberleri ---
+How OpenAI delivers low-latency voice AI at scale (openai.com)
+Securing a DoD contractor: Finding a multi-tenant authorization vulnerability (strix.ai)
