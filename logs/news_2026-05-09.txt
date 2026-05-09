@@ -1,0 +1,4 @@
+--- 2026-05-09 Teknoloji Haberleri ---
+Google broke reCAPTCHA for de-googled Android users (reclaimthenet.org)
+OpenAI's WebRTC problem (moq.dev)
+AI is breaking two vulnerability cultures (jefftk.com)
