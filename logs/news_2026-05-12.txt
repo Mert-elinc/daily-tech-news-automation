@@ -1,0 +1,4 @@
+--- 2026-05-12 Teknoloji Haberleri ---
+Postmortem: TanStack npm supply-chain compromise (tanstack.com)
+UCLA discovers first stroke rehabilitation drug to repair brain damage (2025) (ucla.edu)
+If AI writes your code, why use Python? (medium.com/nmitchem)
