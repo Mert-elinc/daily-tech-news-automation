@@ -1,0 +1,4 @@
+--- 2026-05-13 Teknoloji Haberleri ---
+CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq (thekelleys.org.uk)
+Why senior developers fail to communicate their expertise (nair.sh)
+Foucault's Order of Things Explained with Trading Cards [video] (youtube.com)
