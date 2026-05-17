@@ -1,0 +1,4 @@
+--- 2026-05-17 Teknoloji Haberleri ---
+Moving away from Tailwind, and learning to structure my CSS (jvns.ca)
+OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens (openai.com)
+Frontier AI has broken the open CTF format (kabir.au)
