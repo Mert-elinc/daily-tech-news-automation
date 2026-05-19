@@ -1,0 +1,4 @@
+--- 2026-05-19 Teknoloji Haberleri ---
+Anthropic co-founder to present AI encyclical alongside Pope Leo XIV (vaticannews.va)
+Anthropic acquires Stainless (anthropic.com)
+We stopped AI bot spam in our GitHub repo using Git's –author flag (archestra.ai)
