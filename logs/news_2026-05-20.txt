@@ -1,0 +1,4 @@
+--- 2026-05-20 Teknoloji Haberleri ---
+Railway Blocked by Google Cloud (railway.com)
+OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool (openai.com)
+Remove–AI–Watermarks – CLI and library for removing AI watermarks from images (github.com/wiltodelta)
