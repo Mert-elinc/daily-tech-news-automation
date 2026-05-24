@@ -1,0 +1,3 @@
+--- 2026-05-24 Teknoloji Haberleri ---
+Time to talk about my writerdeck (veronicaexplains.net)
+.NET (OK, C#) finally gets union types (andrewlock.net)
