@@ -1,0 +1,3 @@
+--- 2026-05-25 Teknoloji Haberleri ---
+Memory has grown to nearly two-thirds of AI chip component costs (epoch.ai)
+Constraint Decay: The Fragility of LLM Agents in Back End Code Generation (arxiv.org)
