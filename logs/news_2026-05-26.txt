@@ -1,0 +1,4 @@
+--- 2026-05-26 Teknoloji Haberleri ---
+Using AI to write better code more slowly (nolanlawson.com)
+Norway's 2 petabytes of Huawei flash storage and LLM training (blocksandfiles.com)
+Hacker News front page as a site (thefrontpage.dev)
