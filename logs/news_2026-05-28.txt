@@ -1,0 +1,4 @@
+--- 2026-05-28 Teknoloji Haberleri ---
+YouTube to automatically label AI-generated videos (blog.youtube)
+I think Anthropic and OpenAI have found product-market fit (simonwillison.net)
+Rust (and Slint) on a Jailbroken Kindle (sverre.me)
