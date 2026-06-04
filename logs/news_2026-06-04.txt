@@ -1,0 +1,4 @@
+--- 2026-06-04 Teknoloji Haberleri ---
+I built a vulnerable app and spent $1,500 seeing if LLMs could hack it (kasra.blog)
+The ways we contain Claude across products (anthropic.com)
+Uber's $1,500/month AI limit is a useful signal for AI tool pricing (simonwillison.net)
