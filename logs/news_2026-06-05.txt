@@ -1,0 +1,4 @@
+--- 2026-06-05 Teknoloji Haberleri ---
+Anthropic's open-source framework for AI-powered vulnerability discovery (github.com/anthropics)
+Open Code Review – An AI-powered code review CLI tool (github.com/alibaba)
+When AI Builds Itself: Our progress toward recursive self-improvement (anthropic.com)
