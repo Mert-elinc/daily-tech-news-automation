@@ -1,0 +1,3 @@
+--- 2026-06-08 Teknoloji Haberleri ---
+The Smallest Brain You Can Build: A Perceptron in Python (ranpara.net)
+Show HN: Lathe – Use LLMs to learn a new domain, not skip past it (github.com/devenjarvis)
