@@ -1,0 +1,4 @@
+--- 2026-06-09 Teknoloji Haberleri ---
+Apple reveals new AI architecture built around Google Gemini models (macrumors.com)
+Siri AI (apple.com)
+Apple Core AI Framework (developer.apple.com)
