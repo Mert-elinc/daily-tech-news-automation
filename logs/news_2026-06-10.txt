@@ -1,0 +1,4 @@
+--- 2026-06-10 Teknoloji Haberleri ---
+macOS Container Machines (github.com/apple)
+RIP software hackathons. Long live the hardware hackathon (oscars.dev)
+CEOs who think AI replaces their employees are just bad CEOs (techdirt.com)
