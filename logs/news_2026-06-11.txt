@@ -1,0 +1,4 @@
+--- 2026-06-11 Teknoloji Haberleri ---
+AI agent runs amok in Fedora and elsewhere (lwn.net)
+Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable (techcrunch.com)
+Klondike Solitaire game for curses in 5k of C (nanochess.org)
