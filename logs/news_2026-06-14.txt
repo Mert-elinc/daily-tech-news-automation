@@ -1,0 +1,4 @@
+--- 2026-06-14 Teknoloji Haberleri ---
+Noise infusion banned from statistical products published by Census Bureau (desfontain.es)
+Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI (pyodide.org)
+'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess (wired.com)
