@@ -1,0 +1,4 @@
+--- 2026-06-16 Teknoloji Haberleri ---
+TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed) (tinywind.io)
+Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?
+Why I email complete strangers (goodinternetmagazine.com)
