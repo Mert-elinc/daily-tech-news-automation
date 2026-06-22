@@ -1,0 +1,4 @@
+--- 2026-06-22 Teknoloji Haberleri ---
+Apertus – Open Foundation Model for Sovereign AI (apertvs.ai)
+JSON-LD explained for personal websites (hawksley.dev)
+Petition against Meta's employee training data collection for ML models (mcipetition.com)
