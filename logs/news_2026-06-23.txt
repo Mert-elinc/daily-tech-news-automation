@@ -1,0 +1,4 @@
+--- 2026-06-23 Teknoloji Haberleri ---
+Runing GLM-5.2 on local hardware (unsloth.ai)
+Cyberdecks, going analog, and convivial technology (hydroponictrash.solar)
+Moebius: 0.2B image inpainting model with 10B-level performance (hustvl.github.io)
