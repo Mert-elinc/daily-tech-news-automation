@@ -1,0 +1,4 @@
+--- 2026-06-25 Teknoloji Haberleri ---
+OpenAI unveils its first custom chip, built by Broadcom (techcrunch.com)
+Anthropic says Alibaba illicitly extracted Claude AI model capabilities (reuters.com)
+RubyLLM: A Ruby framework for all major AI providers (rubyllm.com)
