@@ -1,0 +1,3 @@
+--- 2026-06-28 Teknoloji Haberleri ---
+AI learns the “dark art” of RFIC design (ieee.org)
+Enhancing X11 Application Security with LXC (dobrowolski.dev)
