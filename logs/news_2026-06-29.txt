@@ -1,0 +1,4 @@
+--- 2026-06-29 Teknoloji Haberleri ---
+Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM (phantafield.com)
+Professor denounces mass AI fraud on an exam at Brown (elpais.com)
+AI boom risks global financial crash, warn central bankers (telegraph.co.uk)
