@@ -1,0 +1,4 @@
+--- 2026-07-04 Teknoloji Haberleri ---
+Leanstral 1.5: Proof Abundance for All (mistral.ai)
+MSI Center – How to gain SYSTEM privileges in seconds (mrbruh.com)
+GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell (wafer.ai)
