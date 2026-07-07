@@ -1,0 +1,4 @@
+--- 2026-07-07 Teknoloji Haberleri ---
+GLM 5.2 and the coming AI margin collapse (martinalderson.com)
+NSA and IETF: Fairness (cr.yp.to)
+Pruning RAG context down to what the answer actually needs (kapa.ai)
