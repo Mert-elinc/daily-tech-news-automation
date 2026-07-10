@@ -1,0 +1,4 @@
+--- 2026-07-10 Teknoloji Haberleri ---
+GPT-5.6 (openai.com)
+Train sim created by just one person is being called the best ever made (kotaku.com)
+Girls just wanna have fast MPMC queues with bounded waiting (nahla.dev)
