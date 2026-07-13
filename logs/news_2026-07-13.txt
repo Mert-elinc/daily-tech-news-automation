@@ -1,0 +1,4 @@
+--- 2026-07-13 Teknoloji Haberleri ---
+Cyberpunk Comics, Manga and Graphic Novels (shellzine.net)
+Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper (ploy.ai)
+Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k (systima.ai)
