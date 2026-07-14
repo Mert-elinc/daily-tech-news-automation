@@ -1,0 +1,4 @@
+--- 2026-07-14 Teknoloji Haberleri ---
+Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor (get-inscribe.com)
+Show HN: Jacquard, a programming language for AI-written, human-reviewed code (github.com/jbwinters)
+Telegram's t.me domain has been suspended (whois.com)
