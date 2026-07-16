@@ -1,0 +1,4 @@
+--- 2026-07-16 Teknoloji Haberleri ---
+Inkling: Our Open-Weights Model (thinkingmachines.ai)
+Grok Build is open source (github.com/xai-org)
+Governments, companies, nonprofits should invest in free, open source AI [pdf] (siegelendowment.org)
