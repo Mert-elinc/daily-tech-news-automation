@@ -1,0 +1,4 @@
+--- 2026-07-19 Teknoloji Haberleri ---
+Speech Recognition and TTS in less than 500kb (github.com/moonshine-ai)
+Transcribe.cpp (cjpais.com)
+Mayor Mamdani Says Landlords Can't Use AI Images to Advertise (petapixel.com)
