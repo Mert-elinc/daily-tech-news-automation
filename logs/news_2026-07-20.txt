@@ -1,0 +1,4 @@
+--- 2026-07-20 Teknoloji Haberleri ---
+Ask HN: What are your favorite blogs not about AI?
+Talk: The Art of Braiding Algorithms (pgadey.ca)
+OpenAI reduces Codex Model Context Size from 372k to 272k (github.com/openai)
