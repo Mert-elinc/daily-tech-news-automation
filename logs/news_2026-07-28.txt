@@ -1,0 +1,4 @@
+--- 2026-07-28 Teknoloji Haberleri ---
+Astronauts describe persistent 'observer' sensation after 6 month missions (spacedaily.com)
+The Burau representation of the braid group is faithful for n = 4 (arxiv.org)
+Self-contained highly-portable Python distributions (gregoryszorc.com)
