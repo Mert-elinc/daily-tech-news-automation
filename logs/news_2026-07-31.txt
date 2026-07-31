@@ -1,0 +1,4 @@
+--- 2026-07-31 Teknoloji Haberleri ---
+The AI Aesthetic (jim-nielsen.com)
+Read this before you buy that TV streaming stick (krebsonsecurity.com)
+Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free (rune.build)
