@@ -1,0 +1,4 @@
+--- 2026-08-01 Teknoloji Haberleri ---
+Tailscale didn't stop the Hugging Face intrusion (tailscale.com)
+qm (github.com/yc-software)
+Run Kimi K3 using 29 GB of RAM at 0.50 tok/s (github.com/sqliteai)
