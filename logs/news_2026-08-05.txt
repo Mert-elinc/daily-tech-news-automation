@@ -1,0 +1,4 @@
+--- 2026-08-05 Teknoloji Haberleri ---
+Eight Myths on Software Engineering and GenAI (acm.org)
+Mistral's Shieldstral: 3B open-weights model for multimodal moderation (mistral.ai)
+AI fuels more than half of cybercrime in Africa as scams surge – Interpol (africanews.com)
