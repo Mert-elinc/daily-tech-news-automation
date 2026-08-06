@@ -1,0 +1,4 @@
+--- 2026-08-06 Teknoloji Haberleri ---
+Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs (blog.google)
+Muse Code and Muse Spark 1.2 (meta.ai)
+Prime Agent: A self-improving RLM agent (primeintellect.ai)
