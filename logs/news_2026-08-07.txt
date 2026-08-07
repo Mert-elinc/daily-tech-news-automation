@@ -1,0 +1,4 @@
+--- 2026-08-07 Teknoloji Haberleri ---
+Bioengineered chewing gum may offer a way to fight HPV and other microbes (sciencedaily.com)
+Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users (openai.com)
+GitHub Actions and Pages are experiencing degraded availability (githubstatus.com)
