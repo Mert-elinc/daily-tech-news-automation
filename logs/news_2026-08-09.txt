@@ -1,0 +1,4 @@
+--- 2026-08-09 Teknoloji Haberleri ---
+Fastmail offers EU data region (fastmail.com)
+Can Intel finally beat ARM on performance per Watt? (hackaday.com)
+Timeline of the OpenAI accidental attack against Hugging Face (simonwillison.net)
