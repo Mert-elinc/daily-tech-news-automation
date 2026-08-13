@@ -1,0 +1,4 @@
+--- 2026-08-13 Teknoloji Haberleri ---
+DeepSeek V4 Pro 0813 (openrouter.ai)
+Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug (tailscale.com)
+Show HN: Ballet – Workflow automation that writes integrations against any API (ballet.dev)
