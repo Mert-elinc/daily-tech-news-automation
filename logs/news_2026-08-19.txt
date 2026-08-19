@@ -1,0 +1,4 @@
+--- 2026-08-19 Teknoloji Haberleri ---
+Turbovec – Google's TurboQuant for vector search in Rust (github.com/ryancodrai)
+Using the railway network as a flatbed scanner (philo.gay)
+GLM-5.3 Artificial Analysis Benchmarks (artificialanalysis.ai)
