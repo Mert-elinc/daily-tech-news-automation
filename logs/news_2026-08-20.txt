@@ -1,0 +1,4 @@
+--- 2026-08-20 Teknoloji Haberleri ---
+OpenRouter is joining Stripe (openrouter.ai)
+Google replaced Git tags for certain source code with obtaining via Google Drive (grapheneos.social)
+Unsloth Dynamic 3.0 GGUFs (unsloth.ai)
