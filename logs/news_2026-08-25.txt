@@ -1,0 +1,4 @@
+--- 2026-08-25 Teknoloji Haberleri ---
+iCloud+ Hide My Email addresses will remain on icloud.com (developer.apple.com)
+MS Paint and Photos inivisibly watermark even locally generated output with GUID (xusheng.dev)
+IPFS Maintainers Winding Down (ipshipyard.com)
