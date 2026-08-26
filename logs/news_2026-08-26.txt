@@ -1,0 +1,4 @@
+--- 2026-08-26 Teknoloji Haberleri ---
+Python's pre-declared constants are kinda weird (sebsite.pw)
+OpenAI Jalapeño: Better than Nvidia Blackwell (semianalysis.com)
+Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others (github.com/runetes)
