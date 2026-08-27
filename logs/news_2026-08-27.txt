@@ -1,0 +1,4 @@
+--- 2026-08-27 Teknoloji Haberleri ---
+CEO fired developers to make room for AI. Developers create open source AI CEO (github.com/sentelabsai)
+GLM-5.3-Flash (z.ai)
+Tailcat – Like netcat, but over Tailscale’s data plane (github.com/tailscale)
