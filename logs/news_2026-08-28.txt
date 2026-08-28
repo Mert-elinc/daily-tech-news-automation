@@ -1,0 +1,4 @@
+--- 2026-08-28 Teknoloji Haberleri ---
+Stripe said to abandon $50B pursuit of PayPal (bloomberg.com)
+Terminal-Bench-Science: Evaluating AI agents on scientific research workflows (terminal-bench-science.ai)
+AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab (github.com/calmrocks)
