@@ -1,0 +1,4 @@
+--- 2026-08-29 Teknoloji Haberleri ---
+Our decision on Cursor following its acquisition by SpaceX (openai.com)
+U.S. sanctions against the A/I Collective (inventati.org)
+StemDeck, a free, open-source and local AI stem separator (github.com/stemdeckapp)
