@@ -1,0 +1,4 @@
+--- 2026-08-30 Teknoloji Haberleri ---
+RISC-V is now officially supported by CPython (python.org)
+Lawmakers added $1 to car insurance policies. That money paid for Flock cameras (texastribune.org)
+Domain-Driven Agents (coldtake.dev)
