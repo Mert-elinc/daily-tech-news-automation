@@ -1,0 +1,4 @@
+--- 2026-08-31 Teknoloji Haberleri ---
+Haiku R1/beta6 has been released (haiku-os.org)
+Matrox: Graphics for Professionals (abortretry.fail)
+Continuous Diffusion Language Models (CDLM's) (sander.ai)
