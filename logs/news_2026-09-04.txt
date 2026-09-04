@@ -1,0 +1,4 @@
+--- 2026-09-04 Teknoloji Haberleri ---
+GPT-6 Astra (openai.com)
+Qwen 3.8 27B available on Cerebras at 1500 tokens/s (cerebras.ai)
+The largest electric aircraft just flew [video] (youtube.com)
