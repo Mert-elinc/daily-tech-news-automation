@@ -1,0 +1,4 @@
+--- 2026-09-06 Teknoloji Haberleri ---
+Discovery of a new OpenAI agent message board (collusion.wiki)
+Visualizing Rust's Vtables: How dyn Trait Works In Memory (sofiabelen.github.io)
+The Double Matthew Walker Knot by Fable 5.1 (claude.ai)
