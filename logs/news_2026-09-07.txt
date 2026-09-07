@@ -1,0 +1,3 @@
+--- 2026-09-07 Teknoloji Haberleri ---
+Making a Python interpreter in 1024 bytes (austinhenley.com)
+An Alien Mind (openai.com)
