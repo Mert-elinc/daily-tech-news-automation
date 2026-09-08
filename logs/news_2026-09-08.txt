@@ -1,0 +1,4 @@
+--- 2026-09-08 Teknoloji Haberleri ---
+Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon (github.com/sadpainy)
+Trusting-Trust Attack against an Entire Linux Distribution (arxiv.org)
+John Margolies' Photographs of Roadside America (publicdomainreview.org)
