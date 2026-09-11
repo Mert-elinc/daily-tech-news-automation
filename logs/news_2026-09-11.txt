@@ -1,0 +1,4 @@
+--- 2026-09-11 Teknoloji Haberleri ---
+More questions about whether researchers can trust OpenAI with unpublished math (mathstodon.xyz/andreasthom)
+OpenAI Agents API (developers.openai.com)
+Thelio Mira AI Linux Workstation: 192 GB GPU Memory (system76.com)
