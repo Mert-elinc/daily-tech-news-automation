@@ -1,0 +1,4 @@
+--- 2026-09-12 Teknoloji Haberleri ---
+A misalignment of AI in mathematics (mathandai.org)
+OpenAI agents carried out an undisclosed attack on RubyGems (rubyhack.ai)
+A Design Space Exploration of Async/Await (brown.edu)
