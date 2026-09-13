@@ -1,0 +1,4 @@
+--- 2026-09-13 Teknoloji Haberleri ---
+Everyone should slow down AI development except for me (xeiaso.net)
+Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases (withspecific.com)
+Nvidia is the central bank of AI (economist.com)
