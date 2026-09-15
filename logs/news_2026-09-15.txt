@@ -1,0 +1,3 @@
+--- 2026-09-15 Teknoloji Haberleri ---
+OpenAI bots knew about the RubyGems caching vulnerability (tenderlovemaking.com)
+Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen) (nathannaveen.dev)
