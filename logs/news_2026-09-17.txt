@@ -1,0 +1,4 @@
+--- 2026-09-17 Teknoloji Haberleri ---
+Training a 4B model to produce 81% faster query plans than Postgres (rohanbansal.com)
+Xiaomi Mimo 2.6 live post-training dashboard (xiaomi.com)
+OpenSpec – A lightweight and configurable AI spec framework (openspec.dev)
