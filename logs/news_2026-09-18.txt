@@ -1,0 +1,4 @@
+--- 2026-09-18 Teknoloji Haberleri ---
+Astra for Law (openai.com)
+Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint (prismml.com)
+Bend – A language that blocks AI mistakes via proof, on CPU and GPU (bend-lang.com)
