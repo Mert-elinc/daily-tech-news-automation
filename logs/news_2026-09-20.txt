@@ -1,0 +1,4 @@
+--- 2026-09-20 Teknoloji Haberleri ---
+How Hacker News ranking works: scoring, controversy, and penalties (2013) (righto.com)
+I built non-autoregressive decision models with RL a year ago (convaiinnovations.com)
+AI-generated posters don’t have to be horrible (john.hartnup.uk)
