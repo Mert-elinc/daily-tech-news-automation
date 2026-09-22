@@ -1,0 +1,3 @@
+--- 2026-09-22 Teknoloji Haberleri ---
+Transformers Explained Visually (poloclub.github.io)
+AI coding has made CI a bottleneck, so we reworked ours to keep up (linear.app)
