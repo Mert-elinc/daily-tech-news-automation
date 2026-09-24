@@ -1,0 +1,3 @@
+--- 2026-09-24 Teknoloji Haberleri ---
+Mercury 2.5 LLM hits 770 tokens per second (artificialanalysis.ai)
+FLAWED's Flaws and What This Means for Industry Research (suhacker.ai)
