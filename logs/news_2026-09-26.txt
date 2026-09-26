@@ -1,0 +1,4 @@
+--- 2026-09-26 Teknoloji Haberleri ---
+Revealing the details of how OpenAI agents hacked Hugging Face (swarmtraces.org)
+Why didn't anybody tell me about Redis hash slots? (verygoodsoftwarenotvirus.dev)
+One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days (jezebel.com)
