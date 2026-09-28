@@ -1,0 +1,4 @@
+--- 2026-09-28 Teknoloji Haberleri ---
+Ember-1 (fireworks.ai)
+Don't couple your Go code to GitHub (iain.rocks)
+Show HN: Panda, the world's first personal AI computer (pandax1.com)
