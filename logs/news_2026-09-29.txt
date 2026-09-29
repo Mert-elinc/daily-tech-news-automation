@@ -1,0 +1,4 @@
+--- 2026-09-29 Teknoloji Haberleri ---
+Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms (github.com/firelex)
+12,000-year-old Göbeklitepe burials explain scattered bones (archaeologymag.com)
+World Labs Is Joining AMD (worldlabs.ai)
