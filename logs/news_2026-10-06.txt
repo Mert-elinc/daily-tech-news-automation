@@ -1,0 +1,4 @@
+--- 2026-10-06 Teknoloji Haberleri ---
+Beam: Reflection's 501B open-weight model (reflection.ai)
+Dust: Pretraining Transformers Without Backpropagation (qlabs.sh)
+AI tutoring with Khanmigo in a two-year school experiment (edworkingpapers.com)
