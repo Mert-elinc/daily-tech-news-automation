@@ -1,0 +1,4 @@
+--- 2026-10-07 Teknoloji Haberleri ---
+Sharing AI progress in mathematics (openai.com)
+Mistral Large 4 (mistral.ai)
+Decisions API is in public beta (developers.openai.com)
