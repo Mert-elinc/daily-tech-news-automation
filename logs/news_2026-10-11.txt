@@ -1,0 +1,4 @@
+--- 2026-10-11 Teknoloji Haberleri ---
+500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter (momo5502.com)
+Generative AI scandal has come to one of Nikon's competitions (dpreview.com)
+Talorys – A self-hosted personal AI agent on Cloudflare's free tier (github.com/rociiu)
