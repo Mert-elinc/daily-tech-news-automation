@@ -1,0 +1,4 @@
+--- 2026-10-13 Teknoloji Haberleri ---
+GLM-Legal (z.ai)
+AI Models Can Provably Hide Arbitrary Capabilities (arxiv.org)
+Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X (intel.com)
