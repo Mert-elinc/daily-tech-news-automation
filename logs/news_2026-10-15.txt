@@ -1,0 +1,4 @@
+--- 2026-10-15 Teknoloji Haberleri ---
+LFM2.5-24B-A2B: Built for fast on-device agents (liquid.ai)
+We’re releasing Jev 1.14.0 along with experimental features for dreamers (typesafe.ai)
+Containment and monitoring failures are to blame for AI hacking reports: experts (csoonline.com)
