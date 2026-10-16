@@ -1,0 +1,4 @@
+--- 2026-10-16 Teknoloji Haberleri ---
+Muse Spark Open (meta.ai)
+BeBox is a Haiku application that emulates Be Inc.'s BeBox (github.com/johnrash)
+Krea 3 – An image model built for editing at scale (krea.ai)
