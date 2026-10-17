@@ -1,0 +1,4 @@
+--- 2026-10-17 Teknoloji Haberleri ---
+Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console (github.com/cobanov)
+FLUX 3 Image Klein (bfl.ai)
+You could have invented transformers from memory (alexwang.ai)
