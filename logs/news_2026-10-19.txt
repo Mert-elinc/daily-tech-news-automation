@@ -1,0 +1,4 @@
+--- 2026-10-19 Teknoloji Haberleri ---
+William Gibson and the trademarking of cyberspace (colo.to)
+Someone behind the software (karrisaarinen.com)
+One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux (quentinkaiser.be)
