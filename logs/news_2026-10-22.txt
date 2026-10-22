@@ -1,0 +1,4 @@
+--- 2026-10-22 Teknoloji Haberleri ---
+Railway Security Disclosure (railway.com)
+Today's PHP security release, and how we're strengthening security (thephp.foundation)
+Chain of Thought for Humans (boristhebrave.com)
