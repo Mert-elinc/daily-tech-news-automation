@@ -1,0 +1,4 @@
+--- 2026-10-24 Teknoloji Haberleri ---
+Kimi K3.1 Pro and K3.1 Pro Highspeed (kimi.ai)
+Evolving Threat: http2shell is an RCE in node, Python, and more (nitter.click)
+Today, we hacked what we'd set out to hack: the iPhone (calif.io)
