@@ -1,0 +1,4 @@
+--- 2026-10-27 Teknoloji Haberleri ---
+Three new discoveries in mathematics, computer science, and physics (openai.com)
+The Exponential Time Hypothesis Is False [pdf] (github.com/openai)
+Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses) (cloudflare.com)
