@@ -1,0 +1,4 @@
+--- 2026-10-28 Teknoloji Haberleri ---
+Tailscale SSH: Investigation and remediation update (tailscale.com)
+Survival LLM: AI assistant and emergency library that runs on your own computer (brangus.io)
+Python's experimental JIT to be removed (lwn.net)
