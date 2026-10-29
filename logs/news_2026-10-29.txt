@@ -1,0 +1,3 @@
+--- 2026-10-29 Teknoloji Haberleri ---
+GitLab Security Incident: Attempted Exploitation of CVE-2026-97229 (alpinelinux.org)
+Nixpkgs for the Front End Impaired (fzakaria.com)
