@@ -1,0 +1,2 @@
+--- 2026-11-01 Teknoloji Haberleri ---
+HackerTube: YouTube built from videos recommended by HN (karpathy.bearblog.dev)
