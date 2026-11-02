@@ -1,0 +1,4 @@
+--- 2026-11-02 Teknoloji Haberleri ---
+Show HN: HackerBooks – HackerTube, but for books mentioned on HN (hackerbooks.org)
+AI Can Write More of the Code. We Still Have to Engineer the System (picon.dev)
+HackerTube: YouTube built from videos recommended by HN (karpathy.bearblog.dev)
