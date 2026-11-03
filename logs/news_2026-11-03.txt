@@ -1,0 +1,4 @@
+--- 2026-11-03 Teknoloji Haberleri ---
+Show HN: Hacker Times, a New York Times-inspired version of Hacker News (hackertimes.ca)
+Scaling Git at OpenAI (openai.com)
+US boy names that became girl names and vice versa (namedaisy.com)
