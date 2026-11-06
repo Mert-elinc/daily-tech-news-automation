@@ -1,0 +1,4 @@
+--- 2026-11-06 Teknoloji Haberleri ---
+Claude Code sends your email address to websites (github.com/anthropics)
+MS Paint Remote Code Execution Vulnerability (cve.org)
+Nvidia Kubernetes Engine (NVKE) (github.com/dsx-ai-factory)
