@@ -1,0 +1,4 @@
+--- 2026-11-09 Teknoloji Haberleri ---
+Outlook.com Is Quietly Rejecting Email from Domains Without DMARC (mailroute.net)
+The Web Is More Than Enough, by Paul Ford (ftrain.com)
+Goldman Sachs is pulling Claude Code from its bankers and traders (thestateofai.com)
